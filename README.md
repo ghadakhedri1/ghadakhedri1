@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **A medical web application**
+- 🔭 I’m currently working on **A medical MEAN application**
 
 - 🌱 I’m currently learning **Devops**
 
