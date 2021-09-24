@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ghada.khedri1@esprit.tn**
 
-- 📄 Know about my experiences [you can check my Linkedin account !](you can check my Linkedin account !)
+- 📄 Know about my experiences you can check my Linkedin account below ( Click on the icon ) 
 
 - ⚡ Fun fact **I have Lexical-gustatory synesthesia ! (Certain words or sounds evoke different tastes. This is a fairly rare type of synesthesia )**
 
