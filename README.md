@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghada Khedri</h1>
-<h3 align="center">Software engineer , Data analysist and a passionate full-stack developer</h3>
+<h3 align="center">Software engineer and a passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghadakhedri1&label=Profile%20views&color=0e75b6&style=flat" alt="ghadakhedri1" /> </p>
 
